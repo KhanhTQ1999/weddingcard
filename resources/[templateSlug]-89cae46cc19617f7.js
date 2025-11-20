@@ -450,24 +450,7 @@
             (0, Z.jsxs)("div", {
               className: "fixed top-2 left-2 z-50",
               children: [
-                !d &&
-                  (0, Z.jsx)(O.ZP, {
-                    onClick: function () {
-                      return c.push("/editor-template/".concat(n));
-                    },
-                    children: "Chỉnh sửa mẫu n\xe0y",
-                  }),
-                d &&
-                  (0, Z.jsx)(O.ZP, {
-                    onClick: function () {
-                      R(!0);
-                    },
-                    type: "primary",
-                    className:
-                      "bg-gradient-to-r from-pink-500 to-purple-600 border-0 hover:from-pink-600 hover:to-purple-700",
-                    children: "Đặt thiệp n\xe0y",
-                  }),
-                (0, Z.jsx)(k.Z, { templateId: n, isBlock: !0, size: "medium" }),
+                !(0, Z.jsx)(k.Z, { templateId: n, isBlock: !0, size: "medium" }),
               ],
             }),
             d &&

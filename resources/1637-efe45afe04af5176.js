@@ -3156,12 +3156,6 @@
                       style: { fontSize: "12px", letterSpacing: "1px" },
                       className: "jsx-3116023621",
                       children: [
-                        "Made by",
-                        (0, d.jsx)("a", {
-                          href: "https://cinelove.me",
-                          className: "jsx-3116023621 watermark-link",
-                          children: "Cinelove",
-                        }),
                       ],
                     }),
                   }),

@@ -36222,23 +36222,10 @@
                                       className: "text-base",
                                       children: "X\xf3a watermark",
                                     }),
-                                    (0, H.jsx)("div", {
-                                      className: "text-sm text-gray-600 mt-1",
-                                      children:
-                                        'X\xf3a d\xf2ng "Made by Cinelove" để tạo trang web ho\xe0n to\xe0n ri\xeang tư',
-                                    }),
                                     (0, H.jsxs)("div", {
                                       className:
                                         "mt-2 text-sm text-gray-500 italic",
                                       children: [
-                                        '"Made by',
-                                        (0, H.jsx)("a", {
-                                          href: "https://cinelove.me",
-                                          target: "_blank",
-                                          className: "ml-1 font-semibold",
-                                          children: "Cinelove",
-                                        }),
-                                        '"',
                                       ],
                                     }),
                                   ],
@@ -36415,13 +36402,6 @@
                                   : "auto",
                               },
                               children: [
-                                '"Made by',
-                                (0, H.jsx)("a", {
-                                  href: "https://cinelove.me",
-                                  className: "ml-1 font-semibold",
-                                  children: "Cinelove",
-                                }),
-                                '"',
                               ],
                             }),
                           ],
