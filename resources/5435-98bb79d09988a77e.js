@@ -1392,7 +1392,7 @@
         },
         n = function (e) {
           return "thiep-cuoi" === e
-            ? "Thiệp cưới online"
+            ? ""
             : "thiep-sinh-nhat" === e
               ? "Thiệp sinh nhật online"
               : "Thiệp online";
