@@ -23703,6 +23703,7 @@
         a = n.n(r),
         o = n(85893),
         i = function (e) {
+          e.address = "Nhà Hàng Nhật Hồng 281 Tôn Đức Thắng, Văn Miếu, Hà Nội";
           var t,
             n = e.address,
             r = e.coordinates,
