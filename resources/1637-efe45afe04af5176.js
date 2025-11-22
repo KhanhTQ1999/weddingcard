@@ -1027,7 +1027,7 @@
           );
         },
         Y = {
-          src: "/_next/static/media/message.24f9a1e2.png",
+          src: "./next/static/media/message.24f9a1e2.png",
           height: 50,
           width: 50,
           blurDataURL:
@@ -1078,7 +1078,7 @@
           });
         },
         Z = {
-          src: "/_next/static/media/like.ea5798c7.png",
+          src: "./next/static/media/like.ea5798c7.png",
           height: 108,
           width: 108,
           blurDataURL:
@@ -1087,7 +1087,7 @@
           blurHeight: 8,
         },
         R = {
-          src: "/_next/static/media/gift-box.f417ec86.png",
+          src: "./next/static/media/gift-box.f417ec86.png",
           height: 108,
           width: 108,
           blurDataURL:
@@ -1439,7 +1439,7 @@
           });
         },
         M = {
-          src: "/_next/static/media/message-heart.9f3f7935.png",
+          src: "./next/static/media/message-heart.9f3f7935.png",
           height: 120,
           width: 244,
           blurDataURL:
@@ -2370,7 +2370,7 @@
                 });
         },
         eo = {
-          src: "/_next/static/media/bottom-arrow.54525818.png",
+          src: "./next/static/media/bottom-arrow.54525818.png",
           height: 30,
           width: 96,
           blurDataURL:
@@ -4476,7 +4476,7 @@
     76867: function (e, t) {
       "use strict";
       t.Z = {
-        src: "/_next/static/media/bg-gray.df764695.png",
+        src: "./next/static/media/bg-gray.df764695.png",
         height: 126,
         width: 348,
         blurDataURL:

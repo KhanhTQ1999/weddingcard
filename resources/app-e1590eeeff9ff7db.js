@@ -11011,9 +11011,9 @@
         MAP_ID: "c1aaac3c1353d455",
         API_URL: "https://api.cinelove.me",
         COOKIE_DOMAIN: "https://cinelove.me",
-        CDN_URL: "https://cdn.cinelove.me",
+        CDN_URL: "./cdn",
         CDN_RESOURCE_URL: "https://cdn-resource.cinelove.me",
-        CDN_MP3_URL: "https://cdn-mp3.cinelove.me",
+        CDN_MP3_URL: "./cdn-mp3",
         APP_URL: "https://cinelove.me",
         ENV: "prod",
       };
