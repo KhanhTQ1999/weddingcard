@@ -6976,7 +6976,7 @@
         j = n(413),
         y = n(76975),
         v = {
-          src: "/_next/static/media/close-tab-btn.d117f28e.png",
+          src: "./next/static/media/close-tab-btn.d117f28e.png",
           height: 208,
           width: 40,
           blurDataURL:
@@ -33523,7 +33523,7 @@
         f = n(25675),
         h = n.n(f),
         m = {
-          src: "/_next/static/media/3d-map.a4fed189.jpg",
+          src: "./next/static/media/3d-map.a4fed189.jpg",
           height: 333,
           width: 500,
           blurDataURL:
