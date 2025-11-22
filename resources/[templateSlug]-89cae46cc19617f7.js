@@ -378,13 +378,13 @@
             );
           }, []));
         var G = ""
-          .concat(t.templateName, " - ")
-          .concat((0, S.g)(t.categoryId), " miễn ph\xed");
+          .concat(t.templateName)
+          .concat((0, S.g)(t.categoryId));
         return (0, Z.jsxs)(Z.Fragment, {
           children: [
             (0, Z.jsx)(w.PB, {
               title: G,
-              titleTemplate: "%s | CineLove",
+              titleTemplate: "%s",
               defaultTitle: "CineLove",
               description: "".concat(G, " - Thiệp online tr\xean CineLove"),
               canonical: i,
