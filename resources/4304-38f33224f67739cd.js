@@ -283,6 +283,28 @@
         return e;
       }
       var u = function (e) {
+        if(e.nodeId == "6tJI5g6w7X"){
+          e.children.props.html = "2025.12.13";
+          e.children.props.children.props.html = e.children.props.html;
+        }else if(e.nodeId == "6Bl8Xny_DX"){
+          e.children.props.html = "Thứ Bảy, 13.12.2025&nbsp;<div>&nbsp;Âm lịch 24/10 | 5:00 PM</div>";
+          e.children.props.children.props.html = e.children.props.html;
+        }else if(e.nodeId == "lXcloMzp9O"){
+          //day-hour-min
+          console.log(e);
+        }else if(e.nodeId == "56VLaOplZK"){
+          console.log(e);
+        }else if(e.nodeId == "EqAsle3Atj"){
+          console.log(e);
+        }else if(e.nodeId == "8_Hm1R3U-7"){
+          console.log(e);
+        }else if(e.nodeId == "lyas9w1eaF"){
+          console.log(e);
+        }else if(e.nodeId == "vqZ6IVuMYl"){
+          console.log(e);
+        }else{
+          //nothing
+        }
         var t = e.transition,
           n = e.children,
           r = e.style,
@@ -297,6 +319,7 @@
           g = f.effectKey,
           b = p ? "".concat(p, "-").concat(g) : g,
           j = d(d({}, void 0 === r ? {} : r), (0, o.FO)(t, h));
+
         return (
           (0, a.useEffect)(
             function () {
@@ -17540,6 +17563,201 @@
         l = n(7764),
         d = n(85893),
         u = function (e) {
+          e.selectedDate = "2025-12-13T17:00:00.000Z";
+          console.log(e.calendarData);
+          e.calendarData = [
+            {
+                "type": "text",
+                "date": "Mon",
+                "isSelected": false
+            },
+            {
+                "type": "text",
+                "date": "Tue",
+                "isSelected": false
+            },
+            {
+                "type": "text",
+                "date": "Wed",
+                "isSelected": false
+            },
+            {
+                "type": "text",
+                "date": "Thur",
+                "isSelected": false
+            },
+            {
+                "type": "text",
+                "date": "Fri",
+                "isSelected": false
+            },
+            {
+                "type": "text",
+                "date": "Sat",
+                "isSelected": false
+            },
+            {
+                "type": "text",
+                "date": "Sun",
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 1,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 2,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 3,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 4,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 5,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 6,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 7,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 8,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 9,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 10,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 11,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 12,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 13,
+                "isSelected": true
+            },
+            {
+                "type": "day",
+                "date": 14,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 15,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 16,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 17,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 18,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 19,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 20,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 21,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 22,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 23,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 24,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 25,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 26,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 27,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 28,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 29,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 30,
+                "isSelected": false
+            },
+            {
+                "type": "day",
+                "date": 31,
+                "isSelected": false
+            }
+        ];
+
           var t = e.fontSize,
             n = e.fontFamily,
             r = e.calendarData,
