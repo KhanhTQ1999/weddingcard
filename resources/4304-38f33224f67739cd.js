@@ -292,16 +292,21 @@
         }else if(e.nodeId == "lXcloMzp9O"){
           //day-hour-min
           console.log(e);
+          e.children.props.children.props.targetDate = new Date("2025-12-13T17:00:00+07:00");
         }else if(e.nodeId == "56VLaOplZK"){
-          console.log(e);
+          e.children.props.children.props.html = "2025.12.13";
         }else if(e.nodeId == "EqAsle3Atj"){
-          console.log(e);
+          e.children.props.children.props.html = "Quốc Khánh";
         }else if(e.nodeId == "8_Hm1R3U-7"){
-          console.log(e);
+          e.children.props.children.props.html = "Hương Trà";
         }else if(e.nodeId == "lyas9w1eaF"){
-          console.log(e);
+          e.children.props.children.props.html = "2025.12.13";
         }else if(e.nodeId == "vqZ6IVuMYl"){
-          console.log(e);
+          e.children.props.children.props.html = "Nhật Hồng Palace";
+        }else if(e.nodeId == "lLVttkpyCf"){
+          e.children.props.children.props.html = "12.13";
+        }else if(e.nodeId == "h_IxGMML5I"){
+          e.children.props.children.props.html = "2025";
         }else{
           //nothing
         }
